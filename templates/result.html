@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+</head>
+<body>
+    <div class="container">
+        <div class="heading">
+            <p>Name: {{ info["firstname"] }}</p>
+            <p>Roll no: {{ info["hallticketno"] }}</p>
+            {% for x in data["overallattperformance"]["overall"][ll:] %}
+
+                        <p>Subject Name: {{ x["subjectname"] }}</p>
+                        <p>Attendance: {{ x["percentage"]+ x["practical"]}}</p>                        
+            {% endfor %}
+            
+        </div>
+        <p>The Overall attendance average of the candidate is {{ final }}</p>
+    </div>
+</body>
+</html>
