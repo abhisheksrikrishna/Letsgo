@@ -1,0 +1,170 @@
+2CSM
+IML
+
+
+
+{
+    "attandance": {
+        "dayobjects": [
+            {
+                "day": "Today ",
+                "date": "Tue 31 May",
+                "updatedon": "Tue 31 May  at 09:00 PM",
+                "holiday": "false",
+                "sessions": {
+                    "session1": "1",
+                    "session2": "1",
+                    "session3": "1",
+                    "session4": "1",
+                    "session5": "2",
+                    "session6": "1",
+                    "session7": "1"
+                }
+            },
+            {
+                "date": "Mon 30 May",
+                "holiday": "false",
+                "sessions": {
+                    "session1": "1",
+                    "session2": "1",
+                    "session3": "1",
+                    "session4": "1",
+                    "session5": "1",
+                    "session6": "1",
+                    "session7": "1"
+                }
+            }
+        ],
+        "twoweeksessions": {
+            "present": 7,
+            "absent": 0,
+            "nosessions": 0
+        }
+    },
+    "overallattperformance": {
+        "overall": [
+            {
+                "subjectname": "ADE",
+                "percentage": 70.97,
+                "practical": "--",
+                "colorcode1": "#fdb004",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "PYTHON_PROG",
+                "percentage": 70.42,
+                "practical": "--",
+                "colorcode1": "#fdb004",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "MSF",
+                "percentage": 72.92,
+                "practical": "--",
+                "colorcode1": "#fdb004",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "C++",
+                "percentage": 76.54,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "ADE _ LAB",
+                "percentage": "--",
+                "practical": 91.67,
+                "colorcode1": null,
+                "colorcode2": "#137512"
+            },
+            {
+                "subjectname": "DS",
+                "percentage": 69.44,
+                "practical": "--",
+                "colorcode1": "#832533",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "MENTOR",
+                "percentage": 69.23,
+                "practical": "--",
+                "colorcode1": "#832533",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "COA",
+                "percentage": 66.07,
+                "practical": "--",
+                "colorcode1": "#832533",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "EG",
+                "percentage": 76.92,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "IML",
+                "percentage": 72.73,
+                "practical": "--",
+                "colorcode1": "#fdb004",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "COI",
+                "percentage": 66.67,
+                "practical": "--",
+                "colorcode1": "#832533",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "JAVA",
+                "percentage": 66.67,
+                "practical": "--",
+                "colorcode1": "#832533",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "ACD",
+                "percentage": 77.42,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "DBMS",
+                "percentage": 80,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "OS",
+                "percentage": 70.37,
+                "practical": "--",
+                "colorcode1": "#fdb004",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "DBMS_LAB",
+                "percentage": "--",
+                "practical": 80,
+                "colorcode1": null,
+                "colorcode2": "#137512"
+            },
+            {
+                "subjectname": "OS_LAB",
+                "percentage": "--",
+                "practical": 40,
+                "colorcode1": null,
+                "colorcode2": "#ff0000"
+            }
+        ],
+        "totalpercentage": "72.20",
+        "colorcode": "#fdb004"
+    },
+    "debug": ""
+}

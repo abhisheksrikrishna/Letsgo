@@ -1,0 +1,175 @@
+3 ECE
+AWP
+
+{
+    "attandance": {
+        "dayobjects": [
+            {
+                "day": "Today ",
+                "date": "Tue 31 May",
+                "updatedon": "Tue 31 May  at 04:55 PM",
+                "holiday": "false",
+                "sessions": {
+                    "session1": "1",
+                    "session2": "1",
+                    "session3": "1",
+                    "session4": "1",
+                    "session5": "1",
+                    "session6": "2",
+                    "session7": "2"
+                }
+            },
+            {
+                "date": "Mon 30 May",
+                "holiday": "false",
+                "sessions": {
+                    "session1": "1",
+                    "session2": "1",
+                    "session3": "1",
+                    "session4": "1",
+                    "session5": "1",
+                    "session6": "2",
+                    "session7": "2"
+                }
+            }
+        ],
+        "twoweeksessions": {
+            "present": 5,
+            "absent": 0,
+            "nosessions": 2
+        }
+    },
+    "overallattperformance": {
+        "overall": [
+            {
+                "subjectname": "MPMC",
+                "percentage": 82.61,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "CS",
+                "percentage": 86.3,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "DCN",
+                "percentage": 61.84,
+                "practical": "--",
+                "colorcode1": "#832533",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "MPMC/DCN LAB",
+                "percentage": "--",
+                "practical": 90,
+                "colorcode1": null,
+                "colorcode2": "#137512"
+            },
+            {
+                "subjectname": "BEFA",
+                "percentage": 73.02,
+                "practical": "--",
+                "colorcode1": "#fdb004",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "COOS",
+                "percentage": 74.36,
+                "practical": "--",
+                "colorcode1": "#fdb004",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "ACS_LAB/MWDC_LAB",
+                "percentage": "--",
+                "practical": 90.91,
+                "colorcode1": null,
+                "colorcode2": "#137512"
+            },
+            {
+                "subjectname": "IPR",
+                "percentage": 75,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "AWP",
+                "percentage": 88,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "SL_LAB/ECAD_LAB",
+                "percentage": "--",
+                "practical": 80,
+                "colorcode1": null,
+                "colorcode2": "#137512"
+            },
+            {
+                "subjectname": "DSP",
+                "percentage": 68,
+                "practical": "--",
+                "colorcode1": "#832533",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "JAVA",
+                "percentage": 80.65,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "ECAD_LAB/DSP_LAB",
+                "percentage": "--",
+                "practical": 100,
+                "colorcode1": null,
+                "colorcode2": "#137512"
+            },
+            {
+                "subjectname": "VLSI",
+                "percentage": 61.9,
+                "practical": "--",
+                "colorcode1": "#832533",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "CLE",
+                "percentage": 70.59,
+                "practical": "--",
+                "colorcode1": "#fdb004",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "DSP_LAB/SL_LAB",
+                "percentage": "--",
+                "practical": 100,
+                "colorcode1": null,
+                "colorcode2": "#137512"
+            },
+            {
+                "subjectname": "SL-LAB",
+                "percentage": "--",
+                "practical": 66.67,
+                "colorcode1": null,
+                "colorcode2": "#832533"
+            },
+            {
+                "subjectname": "DSP_LAB/ECAD_LAB",
+                "percentage": "--",
+                "practical": 100,
+                "colorcode1": null,
+                "colorcode2": "#137512"
+            }
+        ],
+        "totalpercentage": "79.07",
+        "colorcode": "#137512"
+    },
+    "debug": ""
+}

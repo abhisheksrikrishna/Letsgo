@@ -1,0 +1,160 @@
+3rd EIE DSP
+
+{
+    "attandance": {
+        "dayobjects": [
+            {
+                "day": "Today ",
+                "date": "Tue 31 May",
+                "updatedon": "Tue 31 May  at 11:10 AM",
+                "holiday": "false",
+                "sessions": {
+                    "session1": "1",
+                    "session2": "2",
+                    "session3": "2",
+                    "session4": "2",
+                    "session5": "2",
+                    "session6": "2",
+                    "session7": "2"
+                }
+            },
+            {
+                "date": "Mon 30 May",
+                "holiday": "false",
+                "sessions": {
+                    "session1": "1",
+                    "session2": "1",
+                    "session3": "1",
+                    "session4": "1",
+                    "session5": "1",
+                    "session6": "2",
+                    "session7": "2"
+                }
+            }
+        ],
+        "twoweeksessions": {
+            "present": 5,
+            "absent": 0,
+            "nosessions": 2
+        }
+    },
+    "overallattperformance": {
+        "overall": [
+            {
+                "subjectname": "CS",
+                "percentage": 76.19,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "PDC",
+                "percentage": 75,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "MPMC",
+                "percentage": 89.55,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "BEFA",
+                "percentage": 80,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "OS",
+                "percentage": 77.78,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "IPR",
+                "percentage": 60,
+                "practical": "--",
+                "colorcode1": "#832533",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "MENTOR",
+                "percentage": 62.5,
+                "practical": "--",
+                "colorcode1": "#832533",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "MPMC/PC LAB",
+                "percentage": "--",
+                "practical": 77.59,
+                "colorcode1": null,
+                "colorcode2": "#137512"
+            },
+            {
+                "subjectname": "ACS_LAB/MWDC_LAB",
+                "percentage": "--",
+                "practical": 81.82,
+                "colorcode1": null,
+                "colorcode2": "#137512"
+            },
+            {
+                "subjectname": "DSP",
+                "percentage": 75,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "FIOT",
+                "percentage": 68,
+                "practical": "--",
+                "colorcode1": "#832533",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "IML",
+                "percentage": 66.67,
+                "practical": "--",
+                "colorcode1": "#832533",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "DSP-LAB/IA-LAB",
+                "percentage": "--",
+                "practical": 72.73,
+                "colorcode1": null,
+                "colorcode2": "#fdb004"
+            },
+            {
+                "subjectname": "OOPJ",
+                "percentage": 90.91,
+                "practical": "--",
+                "colorcode1": "#137512",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "IA",
+                "percentage": 68,
+                "practical": "--",
+                "colorcode1": "#832533",
+                "colorcode2": null
+            },
+            {
+                "subjectname": "OOPJ-LAB",
+                "percentage": "--",
+                "practical": 100,
+                "colorcode1": null,
+                "colorcode2": "#137512"
+            }
+        ],
+        "totalpercentage": "77.74",
+        "colorcode": "#137512"
+    },
+    "debug": ""
+}
